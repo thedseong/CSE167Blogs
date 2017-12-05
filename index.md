@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## CSE 167 Blog 1
 
-You can use the [editor on GitHub](https://github.com/thedseong/CSE167Blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**The name of your project:** TreeBark
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The names of the team members:**
+1. Jonathan Perapalanunt
+2. Daniel Seong
 
-### Markdown
+**A short description of your project.**
+We will be creating a foggy island with L-system plants and toon shaded animals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**The technical features you are implementing.**
+1. Toon Shading
+2. Linear Fog
+3. Surface made with Bezier patches
+4. Procedurally generated plants with L-systems
 
-```markdown
-Syntax highlighted code block
+**What you are planning on spending your creative efforts on.**
+We plan on spending our creative efforts on making our water or trees look more realistic.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thedseong/CSE167Blogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**At least one screen shot of your project.**
