@@ -23,10 +23,10 @@ Here is are screenshots of 4 Bezier patches connected together with C1 continuit
 ![Image](https://user-images.githubusercontent.com/9066270/33585842-4a18f5ba-d91b-11e7-8862-71abbced8a09.png)
 ![Image](https://user-images.githubusercontent.com/9066270/33585874-69647d36-d91b-11e7-82cb-989e6b6358b7.png)
 
-Here is the island in its full pointillism glory.
-![Image](https://user-images.githubusercontent.com/9066270/33866981-938c17fc-deae-11e7-887d-3c3eed04ce04.png)
+Here is the island in its full pointillism glory.  
+![Image](https://user-images.githubusercontent.com/9066270/33866981-938c17fc-deae-11e7-887d-3c3eed04ce04.png)  
 CRT-TV mode.
-![Image](https://user-images.githubusercontent.com/9066270/33866993-a082b8f8-deae-11e7-9ac9-c95d3f8d15cb.png)
+![Image](https://user-images.githubusercontent.com/9066270/33866993-a082b8f8-deae-11e7-9ac9-c95d3f8d15cb.png)  
 Fog
 ![Image](https://user-images.githubusercontent.com/9066270/33867011-b282bae4-deae-11e7-99bd-7bd11aa886c7.png)
 
