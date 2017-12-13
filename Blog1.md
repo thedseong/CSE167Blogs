@@ -1,5 +1,7 @@
 ## CSE 167 Blog 2
 
+[Video](https://youtu.be/y7z7QqGbDMY)
+
 **The name of your project:** TreeBark
 
 **The names of the team members:**
